@@ -409,8 +409,8 @@ h2 {
 }
 
 #myCarousel2.carousel {
-    background: url("http://i.imgur.com/uhp1Mj1.png") scroll 0 0 / contain rgba(0, 0, 0, 0);  
-    margin-left:10%;
+    background: url("http://upload.wikimedia.org/wikipedia/commons/5/5e/IPhone_5s.png") scroll 0 0 / contain rgba(0, 0, 0, 0);  
+    margin-left:25%;
     width: 55%;
     height:auto;
     background-repeat:no-repeat;
@@ -438,6 +438,7 @@ h2 {
   margin-bottom:70% !important;
   height:75%;
   width:60%;
+  margin-left: 10% !important;
 }
 
 .carousel-indicators .active {
@@ -445,7 +446,7 @@ h2 {
 }
 .carousel-indicators {
     bottom: -30px;
-    left:38%;
+    left:49%;
 }
 
 .carousel-indicators li {
