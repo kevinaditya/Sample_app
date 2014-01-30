@@ -409,7 +409,7 @@ h2 {
 }
 
 #myCarousel2.carousel {
-    background: url("http://upload.wikimedia.org/wikipedia/commons/5/5e/IPhone_5s.png") scroll 0 0 / contain rgba(0, 0, 0, 0);  
+    background: url("http://i.imgur.com/uhp1Mj1.png") scroll 0 0 / contain rgba(0, 0, 0, 0);  
     margin-left:10%;
     width: 55%;
     height:auto;
@@ -498,3 +498,7 @@ h2 {
   .search{
     margin-top:-20px;
   }
+
+.carousel .item {
+  transition-property: opacity;
+}
